@@ -7,6 +7,7 @@
   <link rel="shortcut icon" href="">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
+  <link rel="stylesheet" href="./assets/css/master.css">
   <style>body{padding-top:50px;}.starter-template{padding:40px 15px;text-align:center;}</style>
 
   <!--[if IE]>
